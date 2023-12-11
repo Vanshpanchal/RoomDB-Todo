@@ -1,4 +1,4 @@
-# RoomDB-Todo
+# RoomDB-Todo (MVVM)
 ##### [Application](App.apk)
 A simple Android Todo App built using Kotlin and Jetpack Compose. Manage your tasks effortlessly with features like adding, deleting, sorting by date, marking as done, and a Material Design theme based on the system color palette.
 
